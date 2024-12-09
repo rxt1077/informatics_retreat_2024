@@ -82,7 +82,7 @@
       - Professional development activities
       - Contributions to the discipline (e.g., service, publications or presentations)
     - Digital, readable, uniform, max three pages
-    - #link("abet_cv_template.docx")[Here's a template]
+    - #link("https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/abet_cv_template.docx")[Here's a template]
   ],
 )
 
@@ -99,7 +99,7 @@
       - Educational objectives for the course
       - Brief list of topics to be covered
     - Digital, readable, uniform
-    - #link("abet_syllabus_template.docx")[Here's a template]
+    - #link("https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/abet_syllabus_template.docx")[Here's a template]
   ],
 )
 
@@ -111,8 +111,8 @@
     - Student outcomes, method of assessment, a few questions, and the data
     - Two for each course: one from two years ago and one from this year.
     - Used as data for Criterion 4: Continuous Improvement
-    - #link("abet_fcar_template.docx")[Here's a template]
-    - #link("IT114-ABET.ppt")[Mike also gave a whole presentation on the topic]
+    - #link("https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/abet_fcar_template.docx")[Here's a template]
+    - #link("https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/IT114-ABET.ppt")[Mike also gave a whole presentation on the topic]
   ]
 )
 
