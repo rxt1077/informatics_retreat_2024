@@ -5,3 +5,4 @@
 * [ABET Syllabus Template](https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/abet_syllabus_template.docx)
 * [ABET FCAR Template](https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/abet_fcar_template.docx)
 * [FCAR for IT114 Presentation](https://github.com/rxt1077/informatics_retreat_2024/raw/refs/heads/main/docs/IT114-ABET.ppt)
+* [Google Drive for Submissions](https://drive.google.com/drive/folders/18wfNI_mDyFsm6NB3Vtb7nGeZsXmf1TVL?usp=sharing)
